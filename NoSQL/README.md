@@ -1,1 +1,1 @@
-documentation for NoSQL
+this is a readme for NoSQL directory
